@@ -1,2 +1,11 @@
-# expertllama
-ExpertLlama - AI Llama Framework
+# ExpertLlama - LLMs framework 🦙
+
+
+
+s
+## Quickstart
+
+- Git clone
+- python
+
+### how to
